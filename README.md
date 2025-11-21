@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hello there, I'm Amby 👋 
-<a href="www.linkedin.com/in/nwadire-amblessed-7b4828292"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/nwadire-amblessed-7b4828292"></a>
 
 Im a undergraduate student at Rhema University, passionate about IT, programming and tickering with machines.
 
