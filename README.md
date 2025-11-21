@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hello there, I'm Amby 👋 
-<a href="www.linkedin.com/in/nwadire-amblessed-7b4828292">Find me on LinkedIn 📫</a>
+<a href="www.linkedin.com/in/nwadire-amblessed-7b4828292/">Find me on LinkedIn 📫</a>
 
 Im a undergraduate student at Rhema University, passionate about IT, programming and tickering with machines.
 
