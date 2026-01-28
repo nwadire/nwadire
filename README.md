@@ -28,6 +28,6 @@ Im a undergraduate student at Rhema University, passionate about IT, programming
 |-----------------------------------------------|----------------------------|
 | Codecademy Web Development Projects | <a href="https://github.com/nwadire/Learning-Web-Development.git">Web Development Projects</a>|
 | Github hosted Personal Development Website | <a href="https://github.com/nwadire/Portfolio-Website">Personal Porfolio Website</a>| 
-| NRI MAMA'S KITCHEN | <a herf="https://nwadire.github.io/NRI-MAMA-S-KITCHEN/">nri mama's kitchen</a>|
+| NRI MAMA'S KITCHEN |<a herf="https://github.com/nwadire/NRI-MAMA-S-KITCHEN">nri mama's kitchen</a>|
 
 
